@@ -1,0 +1,6 @@
+echo "# d-s-c-o-r-d-1356028050238497582903847059283475" >> README.md
+git init
+git add README.md
+git commit -m "If you want your one channel, contact a Administrator or Moderator"
+git remote add origin https://github.com/DerMechatroniker/d-s-c-o-r-d-1356028050238497582903847059283475.git
+git push -u origin master
